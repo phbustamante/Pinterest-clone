@@ -12,7 +12,7 @@
 .item {
     width: 236px;
     height: 350px;
-    background-color: red;
+    background: $red;
     border-radius: 10px;
 }
 .item:not(:first-child) {
